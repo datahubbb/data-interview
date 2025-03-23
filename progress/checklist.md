@@ -220,9 +220,4 @@ This checklist tracks my preparation for a Senior Data Scientist interview, cove
 
 ---
 
-## How to Use This Checklist
-- Check off items (`- [x]`) as you complete them.
-- Update progress in the README or a separate `timeline.md`.
-- Add notes, code, or notebooks to corresponding folders in the repo.
-
 Last updated: March 22, 2025
